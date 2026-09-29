@@ -9,7 +9,7 @@ Flight Delay Analytics is an interactive analytics dashboard designed to evaluat
 
 ## 📊 Dataset Used
 - Raw data: raw data from Kaggle
-- Clean data: 
+- Clean data: https://github.com/afifahasfaa/flight_delay_analytics/blob/main/datafix.xlsx
 
 ## 💡 What I learned
 - How to clean data using Microsoft Excel
