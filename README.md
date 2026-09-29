@@ -25,4 +25,4 @@ Flight Delay Analytics is an interactive analytics dashboard designed to evaluat
 5.	What is the overall average delay rate (%) across all flights during the analyzed period?  
 
 ## 📎 Preview
-![Dashboard Preview](Screenshot%202026-09-25%20121628.png)
+![Dashboard Preview](Screenshot%202026-09-29%20070522.png)
